@@ -30,8 +30,6 @@ $ node escribo.js
 
 #Output example
 
-#Insert a number: {insert your number heare}
+#Insert a number: {insert your number here}
 
 ```
-
-
